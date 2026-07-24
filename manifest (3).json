@@ -1,0 +1,14 @@
+{
+  "background_color": "#cd3939",
+  "description": "Whd",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "Wahid",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Whd-2.2",
+  "start_url": "/",
+  "theme_color": "#823434",
+  "lang": "ar",
+  "id": "Wahid "
+}

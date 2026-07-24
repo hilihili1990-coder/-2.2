@@ -1,0 +1,17 @@
+{
+  "background_color": "#ab2626",
+  "description": "برنامج لحساب العملات في صندوق المحل",
+  "dir": "rtl",
+  "display": "standalone",
+  "name": "Wahid-2.2",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Whd-2.2",
+  "start_url": "/",
+  "theme_color": "#4e9443",
+  "lang": "ar",
+  "id": "Whd",
+  "categories": [
+    "food"
+  ]
+}
